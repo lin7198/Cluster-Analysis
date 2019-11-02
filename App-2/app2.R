@@ -23,7 +23,6 @@ ui <- fluidPage(
 
 
 # Define server logic required to draw a histogram ----
-#iris_li <- read.csv("C:/Personal/80126902/Desktop/R_Shinny/App-2/data/play_data.csv")
 
 
 server <- function(input, output) {
