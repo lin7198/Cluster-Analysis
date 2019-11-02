@@ -1,0 +1,12 @@
+name: App-2
+title: App-2
+username:
+account: lilinok
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1041654
+bundleId: 2389385
+url: https://lilinok.shinyapps.io/App-2/
+when: 1567715428.06255
+asMultiple: FALSE
+asStatic: FALSE
